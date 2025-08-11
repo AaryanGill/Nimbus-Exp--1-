@@ -17,5 +17,5 @@ A simple and beginner-friendly student registration form built using pure HTML.
 This project demonstrates a basic HTML form structure suitable for beginners learning front-end development.
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](https://github.com/AaryanGill/Nimbus-Exp--1-/blob/a7329bb7b417f8544e1be213df6d508bef9e5ade/MIT%20License).
 
